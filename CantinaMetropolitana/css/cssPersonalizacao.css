@@ -1,0 +1,107 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01/09/2018, 16:20:57
+    Author     : osval
+*/
+
+body{
+      /*background-image: url(../001.jpg);*/
+}
+/*
+ul li a.a{
+    color:red;
+}*/
+
+/*Menu*/
+h1, h2{
+    color: #fff;
+}
+
+.label{
+    background-color: #333;
+    padding: 10px;
+}
+
+.agroup{
+    background-color: #333;
+}
+
+.menudrop{
+    background-color: #494949;
+}
+
+.menudrop a{
+ color: white;    
+}
+
+/*ul li:houver a{
+    color: white;
+}*/
+
+.title{
+    background-color: #333;
+}
+
+
+
+
+
+/*itens de menu*/
+ul, .ul {
+    background-color: #494949;
+}
+
+ul li:hover {
+    background: #005cbf;
+    color:white;
+}
+
+ul li a{
+    color:#fff;
+}
+/*-------------*/
+
+.menu{
+    background-color: #222;
+    
+}
+/*--------------*/
+
+
+
+
+
+/*formulario*/
+.form{
+    margin-top: 8%;
+    border:1px solid #c0c0c0;
+    background-color: #eee;
+}
+
+input.col-12{
+    box-shadow: 0.1px 0.1px #494949, -0.1px -0.1px #494949;
+    border-radius: 0px;
+}
+
+.align-content{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+/*--------------*/
+
+
+
+
+footer {
+    
+    background-color: #222;
+    width: 100%;
+    position: fixed;
+    bottom:0;
+    left:0;
+}
